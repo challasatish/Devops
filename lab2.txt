@@ -1,0 +1,18 @@
+testing for lab 2 use case.
+
+
+devops_Git
+
+Lab Scneario 2:
+Steps:
+1. create a local respo in local machine using command called "git init" (i.e using new dictory)
+2. Create a text file using the command called i.e touch test.txt (i.e file name.fileformat )
+3. Edit the file using the nano command and save the file.
+4. Using the git command the called i.e git add file name (i.e particular file) or git add . (i.e it will work for complete files)
+5. commit the code i.e git commit -m "comments reason"
+6.  pushing the code to center respo using the center respo crednetials.
+git push -u origin branchname
+or 
+git push origin branchname
+7. check once git status.
+
